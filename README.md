@@ -13,6 +13,7 @@
 <br>
 <br>
 <h1> 📩 Tela de Contato: </h1>
+<br>
 <img src="assets/contatar-mario.png"></>
 
 <h4> Este projeto apresenta uma página inspirada no universo de Mario & Luigi, criada para simular um serviço de encanamento.
